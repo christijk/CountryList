@@ -26,7 +26,7 @@ enum HTTPMethod: String {
 // MARK: Constants required for the app
 
 struct Constants {
-    static let apiKeyValue = "ecb53cb4c21e3e717a91d71ee908bbd0"
+    static let apiKeyValue = "8171d31841d2e0c16fb6613a72edddf3"
     static let rootURL = URL(string: "http://api.countrylayer.com")!
     static let contentType = "Content-Type"
     static let contentTypeJson = "application/json"
